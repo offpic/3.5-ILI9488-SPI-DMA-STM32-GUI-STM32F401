@@ -1,7 +1,7 @@
 # 3.5-ILI9488-SPI-DMA-STM32-GUI-STM32F401
 3.5 ILI9488 SPI DMA STM32 GUI STM32F401
 
-if don't worked, change void **ILI9488_Init(void)** only Driver
+if don't worked, change **void ILI9488_Init(void)** only Driver
 
 https://www.youtube.com/watch?v=wAQasHDKodM
 
